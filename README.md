@@ -1,6 +1,5 @@
 
 # Account transfer REST
--------------------------
 Test application implementing a RESTful API for money transfers between accounts
 
 Technologies
@@ -11,7 +10,7 @@ Technologies
 * Jetty server
 * Maven
 
-### API
+API
 ------------
 Application listen to port: 9999
 ```
@@ -29,7 +28,6 @@ Application listen to port: 9999
 Running the Application
 -----------------------
 
-Run the application as follows:
 >     mvn clean package exec:java
 
 Tests
