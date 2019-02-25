@@ -1,5 +1,6 @@
 
 # Account transfer REST
+-------------------------
 Test application implementing a RESTful API for money transfers between accounts
 
 Technologies
@@ -11,6 +12,7 @@ Technologies
 * Maven
 
 ### API
+------------
 Application listen to port: 9999
 ```
 1. @POST http://localhost:9999/api/accounts
